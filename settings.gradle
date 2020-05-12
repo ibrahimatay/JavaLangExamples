@@ -1,4 +1,5 @@
 rootProject.name = 'JavaLangExamples'
 include 'DefaultMethodsinInterface'
 include 'LambdaExpressions'
+include 'TextBlocks'
 
